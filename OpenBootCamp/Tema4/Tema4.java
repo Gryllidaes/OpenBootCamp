@@ -1,4 +1,4 @@
-public class Tema4_IF {
+public class ParteUnoIf {
     int numeroIf = 5;
 
 if (numeroIf > 0) {
@@ -10,14 +10,9 @@ if (numeroIf > 0) {
 }
 
 
-public class Tema4_While {
+public class ParteDosWhile {
     int numeroWhile < 3;
 
-if (numeroIf > 0) {
-    System.out.println("El número es positivo");
-} else if (numeroIf < 0) {
-    System.out.println("El número es negativo");
-} else {
-    System.out.println("El número es 0");
+
 }
           
