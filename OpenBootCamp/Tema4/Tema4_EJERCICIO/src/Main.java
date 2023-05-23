@@ -52,24 +52,27 @@ public class Main {
 
         // Parte 5: Switch
         {
-           String estacion = "verano";
+        String estacion = "verano";
 
-           switch (estacion){
-               case "otoño":
-                   System.out.println("Es Otoño");
-                   break;
-               case "Invierno":
-                   System.out.println("Es invierno");
-                   break;
-               case "Primavera":
-                   System.out.println("Es Primavera");
-                   break;
-               default:
-                   System.out.println("Es Verano");
-                   break;
+        switch (estacion){
+            case "otoño":
+                System.out.println("Es Otoño");
+            break;
+            
+            case "Invierno":
+                System.out.println("Es invierno");
+            break;
+            
+            case "Primavera":
+                System.out.println("Es Primavera");
+            break;
+            
+            default:
+                System.out.println("Es Verano");
+            break;
 
-           }
         }
+    }
 
     }
 }
