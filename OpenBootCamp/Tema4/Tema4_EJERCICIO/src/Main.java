@@ -4,7 +4,8 @@ public class Main {
 
         // Parte 1: If
         {
-            int numeroIf = 5;
+        int numeroIf = 5; 
+    
 
             if (numeroIf > 0) {
                 System.out.println("El número es positivo\n");
@@ -13,6 +14,7 @@ public class Main {
             } else {
                 System.out.println("El número es 0\n");
             }
+        
         }
 
 
