@@ -2,8 +2,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("TEMA 4: \n");
 
+ 
+        
         // Parte 1: If
-        {
+{
         int numeroIf = 5; 
     
 
